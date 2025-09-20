@@ -28,8 +28,8 @@ echo "
 </head>
 <body>
 <div>
-<h1>I thank the BMC community, Brothers, and group who helped me learn AWS and pass the certification.  The knowledge I have gained has allowed me to purchase my dream car!</h1>
-
+<h1>I thank the BMC community, Brothers, and group who helped me learn AWS and pass the certification.</h1>
+<h1>The knowledge I have gained has allowed me to purchase my dream car!</h1>
 
 <br>
 # insert an image or GIF
