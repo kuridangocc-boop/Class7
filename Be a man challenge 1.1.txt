@@ -28,12 +28,12 @@ echo "
 </head>
 <body>
 <div>
-<h1>I found my wife on a party yacht in Enoshima, Japan! Her name is Shizuka!</h1>
+<h1>I thank the BMC community, Brothers, and group who helped me learn AWS and pass the certification.  The knowledge I have gained has allowed me to purchase my dream car!</h1>
 
 
 <br>
 # insert an image or GIF
-<img src="https://i.pinimg.com/736x/c3/2a/35/c32a3534d9f78a1289168bd05521aeaf.jpg">
+<img src="https://www.tapetus.pl/obrazki/n/205501_nissan-gtr-r35-skyline.jpg">
 <br>
 
 <p><b>Instance Name:</b> $(hostname -f) </p>
